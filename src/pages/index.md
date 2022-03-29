@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Cambio detexto en el título
+title: Cambio de texto en el título
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
